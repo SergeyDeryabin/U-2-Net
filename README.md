@@ -4,7 +4,7 @@
   <h1 align="center">U<sup>2</sup>-Net: U Square Net</h1>
     
 </p>
-
+## Перевод. Сергей Дерябин.
 Это - официальный репозитарий(repo) для нашей статьи  **U<sup>2</sup>-Net(U square net)**, опубликованной в издании "Распознавание образов 2020"("Pattern Recognition 2020"):
 
 ## [U<sup>2</sup>-Net: Going Deeper with Nested U-Structure for Salient Object Detection](Углубленное движение с вложенной U-структурой для обнаружения выступающих объектов)(https://arxiv.org/pdf/2005.09007.pdf)
